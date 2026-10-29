@@ -61,7 +61,7 @@ For technical assistance, bug reports, or feature requests, contact the MSgo dev
 - **Developer:** Harshit Jaiswal
 - **Support Email:** jaiswalharshit156@gmail.com
 
-Replace these placeholders with your actual contact information before publishing.
+.
 
 ## 🗺️ Roadmap
 
